@@ -40,7 +40,7 @@ git clone https://github.com/your-username/krypto-landing-page.git
 
 ## Usage
 
-Visit the live site [here](https://your-username.github.io/krypto-landing-page/) to view the landing page. 
+Visit the live site [here](https://timi-krypto-tiki.vercel.app/) to view the landing page. 
 
 ## Conclusion
 
